@@ -1,5 +1,4 @@
 ## <Hello, world! I'm Yasmim />
-<img align="right" width="300" height="206" src="https://user-images.githubusercontent.com/58710976/87556579-3465da00-c68d-11ea-8fed-ae984c763555.jpg">
 
   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ygcorrea)](https://github.com/ygcorrea)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygcorrea/)](https://www.linkedin.com/in/ygcorrea/)
@@ -8,6 +7,8 @@
 <br/> My name is Yasmim Correa, i'm a front-end developer that aiming to be a fullstack developer. 
 <br/>
 I am a passionate about science and my tech friends call me "CSS girl" because i'm a 'pixel perfect' developer 🤘.
+
+<img justify="center" align="right" width="200" height="136" src="https://user-images.githubusercontent.com/58710976/87556579-3465da00-c68d-11ea-8fed-ae984c763555.jpg">
 
 <br/>.🌈 I love memes 
 <br/>.✏️ Design Enthusiast.
