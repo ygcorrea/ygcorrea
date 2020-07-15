@@ -23,4 +23,3 @@ I am a passionate about science and my tech friends call me "CSS girl" because i
 <br/>.🌌 My favorite TV show is Rick and Morty
 
 Thank you for reading this far and don't forget to add me on LinkedIn.
-![undraw_proud_coder_7ain](https://user-images.githubusercontent.com/58710976/87555164-7aba3980-c68b-11ea-9af9-34e50a9c3df7.png)
