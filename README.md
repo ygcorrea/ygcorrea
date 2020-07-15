@@ -8,11 +8,11 @@
 <br/>
 I am a passionate about science and my tech friends call me "CSS girl" because i'm a 'pixel perfect' developer 🤘.
 
-<img justify="center" align="right" width="200" height="136" src="https://user-images.githubusercontent.com/58710976/87556579-3465da00-c68d-11ea-8fed-ae984c763555.jpg">
 
 <br/>.🌈 I love memes 
 <br/>.✏️ Design Enthusiast.
 <br/>.💙 In love with Javascript.
+<img justify="center" align="right" width="200" height="136" src="https://user-images.githubusercontent.com/58710976/87556579-3465da00-c68d-11ea-8fed-ae984c763555.jpg">
 <br/>.📚 Bachelor Degree in Computer Science.
 <br/>.🌌 My favorite TV show is Rick and Morty
 <br/>.🌍 Languages: Portuguese, English, Deutsche.
