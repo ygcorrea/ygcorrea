@@ -4,7 +4,7 @@
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ygcorrea/)](https://www.linkedin.com/in/ygcorrea/)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.yascorrea@gmail.com)](mailto:g.yascorrea@gmail.com/)
 
-<br/> My name is Yasmim Correa, i'm a front-end developer and i am passionate about Design. My "tech friends" call me "CSS girl" because i'm a 'pixel perfect' developer 🤘.
+<br/> My name is Yasmim Correa, i'm a front-end developer and a passionate about Design. My "tech friends" call me "CSS girl" because i'm a 'pixel perfect' developer 🤘.
 
 
 <br/>.🌈✏️ Design Enthusiast.
